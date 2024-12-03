@@ -55,6 +55,8 @@ Both outputs are saved in the `assets` folder.
 4. Execute the notebook sequentially to process the video and generate outputs.
 
 ## Data Sources
+- [Original video](https://github.com/Yanstart/POR_Traitement_De_signaux/blob/main/assets/Test%20Your%20Awareness.avi)
+- [POR data](https://github.com/Yanstart/POR_Traitement_De_signaux/blob/main/assets/DataPOR.csv)
 This project utilizes data provided by:
 - **Mathieu Petieau** (mathieu.petieau@ulb.be)  
   Université Libre de Bruxelles (ULB)
