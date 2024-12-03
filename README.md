@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project processes eye-tracking data to overlay the Point of Regard (POR) on a video and generate a heatmap summarizing the zones most (or least) frequently viewed. The main goal is to enhance visualization and understanding of gaze data.
+This project processes eye-tracking data to overlay the Point of Regard (POR) on a video and generate a heatmap summarizing the zones most (or least) frequently viewed. The main goal is to enhance visualization and understanding of gaze data. The programme has been specially optimised to use the minimum amount of resources.
 
 ## Minimum Viable Product (MVP)
 
